@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-22T06:09:55.761961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Ob-La-Di,_Ob-La-Da_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Ob-La-Di,_Ob-La-Da_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Ob-La-Di,_Ob-La-Da_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_Ob-La-Di,_Ob-La-Da_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Ob-La-Di,_Ob-La-Da_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Ob-La-Di,_Ob-La-Da_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Ob-La-Di,_Ob-La-Da_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Ob-La-Di,_Ob-La-Da_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Ob-La-Di,_Ob-La-Da_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Ob-La-Di,_Ob-La-Da_The_Beatles.txt"
+    }
+  ]
+}
